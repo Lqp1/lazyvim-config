@@ -17,6 +17,8 @@ return {
         nix = true,
         gitcommit = true,
       },
+      suggestion = { enabled = false },
+      panel = { enabled = false },
     },
   },
   {
